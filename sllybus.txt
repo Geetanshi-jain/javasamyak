@@ -1,0 +1,22 @@
+chapter String - string builder ,buffer
+garbage collection
+string vs string builder vs Strign buffer
+4. Methods
+4.1 static Methods ,instace mthd, Abstract mthd, concrete mth,final 
+
+OOP
+1.class,object,constructor constructor overloading ,final ,this ,super , inheritance ,setter Getter, encapsulation,
+2.block - Annonoymous block, `5\6-instance block,instance variable ,static variable,global variable , static variable,
+3. polymorphism -compile time ,runtime ,method hiding ,data abstraction ,
+Abstraction vs encapsulaiton
+4.Exception handling -`5\6-
+try ,catch ,finally 
+5.final, finally ,finalize 
+6.Exception vs error
+7.access modifier
+ # Interview questions based on OOP 
+
+#collection framwork 
+#multithreading 
+#multitasking, interface , java 8 
+ 
