@@ -17,6 +17,12 @@ try ,catch ,finally
  # Interview questions based on OOP 
 
 #collection framwork 
-#multithreading 
+#Interfaces -
+1.simple Interface
+2.InterfaceInheritance
+3.multipleInheritance with interface
+#multithreading  -
+1. implementing thread by Thread class 
+2. implemting thread by Runnable interface
 #multitasking, interface , java 8 
  
